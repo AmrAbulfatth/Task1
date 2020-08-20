@@ -1,0 +1,3 @@
+
+- Open Task1 on Katalon Studio.
+- Click Run.
